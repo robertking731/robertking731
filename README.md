@@ -11,20 +11,21 @@ I am a versatile IT developer with a strong background in full-stack web develop
 ## Contact
 
 - Email: robertking971228@gmail.com
-- skype: live:.cid.43c868c07a2cd1db
+- skype: live:.cid.4bff53152f3d85b2
 - GitHub: [github.com/johndoe](https://github.com/robertking731)
 
 
 ## Skills
 
 - **Programming Languages**: JavaScript, Python, Java
-- **Technologies & Frameworks**: React.js, Node.js, Django, Spring Boot
+- **Technologies & Frameworks**: React.js, Node.js, Django,Solidity,Web3
 - **Database Management**: MongoDB, PostgreSQL, MySQL
 - **Cloud Platforms**: AWS (EC2, S3, Lambda), Azure, Google Cloud Platform
 - **Networking**: TCP/IP, DNS, VPN
 - **Security**: OWASP Top 10, SSL/TLS, SIEM
 - **DevOps**: Docker, Kubernetes, Jenkins, GitLab CI/CD
 - **Project Management**: Agile, Scrum, Kanban
+- **Sopify
 
 
 
